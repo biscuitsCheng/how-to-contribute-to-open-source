@@ -51,7 +51,7 @@
 - [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612) - 在GitHub上什么该做什么不该做。
 - [GitHub Guides](https://docs.github.com/en) -关于如何有效率的使用GitHub的基本指导。
 - [Contribute to Open Source](https://github.com/danthareja/contribute-to-open-source) - 通过为一个模拟的工程贡献来学习GitHub工作流。
-- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Linux基金会改于开源项目的指南。
+- [Linux Foundation's Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides) - Linux基金会关于开源项目的指南。
 - [CSS Tricks An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/) - 一个开源规则指南, 由 Kent C. Dodds 和 Sarah Drasner 撰写.
 - [A to Z Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - 为大学生提供的关于学习一门新语言的资源或机会的对照表。
 - [Pull Request Roulette](http://www.pullrequestroulette.com/) - 这个网站有一个托管在GitHub上提交上去为了复查的属于开源的项目的拉取请求列表。
